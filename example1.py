@@ -1,1 +1,1 @@
-print('okayss')
+print('okay')

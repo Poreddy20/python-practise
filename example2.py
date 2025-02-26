@@ -1,2 +1,2 @@
-print('hiee')
+print('hie')
 
